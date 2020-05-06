@@ -1,0 +1,1 @@
+scp -r sodabot root@192.168.125.1:'/home/root'
